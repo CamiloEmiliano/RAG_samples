@@ -1,6 +1,6 @@
 """
-TODO: This works, but is extremely slow. We need to optimize the embedding and retrieval process,
-      and also consider using a smaller model for faster inference.
+This works, but is extremely slow. We need to optimize the embedding and retrieval process,
+ and also consider using a smaller model for faster inference.
 """
 import streamlit as st
 from langchain_community.document_loaders import PDFPlumberLoader
